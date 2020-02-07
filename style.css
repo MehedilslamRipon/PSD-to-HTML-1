@@ -1,0 +1,153 @@
+.top {
+	background-color: #87509C;
+    min-height: 460px;
+}
+.logo img {
+	color: white;
+	padding: 3em 9em;
+}
+.nav_menu {
+	padding: 54px 11px;
+}
+.nav_menu ul {
+	
+}
+.nav_menu ul li {
+	list-style: none;
+	display: inline;
+	padding: 10px 10px;
+}
+.nav_menu ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 7px;
+}
+.nav_menu ul li a:hover {
+	background: #643A79;
+	padding: 7px;
+	border-radius: 5px;
+}
+.header_para {
+	padding: 100px 0px;
+}
+.header_para h3 {
+	
+	text-align: center;
+	color: white;
+}
+.main_button {
+	    text-align: center;
+}
+.main_button button {
+	text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 11px 41px;
+    border-bottom: 3px solid black;
+    border-radius: 7px;
+    background: #EB7D4B;
+	border: none;
+	color: white;
+}
+.main_services {
+	background: #17C2A4;
+    min-height: 650px;
+}
+.service_header {
+	padding: 81px 364px;
+	text-align: center;
+	color: white;
+}
+.service_header h1 {
+	border-bottom: 3px solid #14A58C;
+}
+.team_leader {
+
+    min-height: 730px;
+    background-color: #E7F1F8;
+
+}
+.under_border2 {
+	border-bottom: 3px solid #C8D9E5;
+    width: 85px;
+    margin-left: 546px;
+}
+
+.developers_top {
+	padding: 63px 0px;
+	text-align: center;
+	color: #3C4761;
+}
+.about {
+	background-color: #D74680;
+}
+.percentage {
+	padding: 124px;
+    text-align: center;
+}
+.message_header h1{margin-top:80px}
+.message_header  p{padding:20px 0;}
+.main_message  {
+	height:550px;
+	text-align: center;
+	background-color:#3c5499;
+	color:#fff;
+}
+.message_main .name {
+	padding: 11px 60px;
+	border: none;
+    border-radius: 5px;
+    background-color: #273A71;
+	text-align: center;
+	color: white;
+	
+}
+.message_main .email {
+	padding: 11px 60px;
+	border: none;
+    border-radius: 5px;
+    background-color: #273A71;
+	text-align: center;
+	color: white;
+}
+.message_main .message {
+	padding: 63px 165px;
+	border: none;
+    border-radius: 5px;
+    background-color: #273A71;
+	text-align: center;
+	color: white;
+    margin-top: 20px;
+}
+.message_main .button2 {
+	text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 15px 45px;
+    border-bottom: 3px solid #299ec5;
+    border-radius: 5px;
+    background: #30BAE7;
+    border-top: none;
+    color: white;
+    margin-top: 20px;
+    border-left: navajowhite;
+    border-right: none;
+}
+.message_main input placeholder{color:#fff;}
+.main_footer {
+	background-color: #344B8E;
+	height: 100px;
+	text-align: center;
+	padding: 36px;
+}
+.footer a {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 30px;
+}
+.under_border {
+    border-bottom: 3px solid #273A71;
+    width: 77px;
+    margin-left: 546px;
+}
